@@ -1,4 +1,4 @@
-# myip-tool
+# myip simple, command easy.
 A ip command for linux and windows
 
 # -----------------------------------------------------------
